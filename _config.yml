@@ -25,6 +25,8 @@ roles:
     name: Principal Investigators
   - key: director
     name: Director
+  - key: assoc_director
+    name: Associate Directors
   - key: faculty
     name: Faculty
   - key: team
