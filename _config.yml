@@ -36,17 +36,11 @@ roles:
   - key: colab
     name: Collaborators
 
-organizations:
-  - key: um
-    name: University of Michigan
-  - key: anl
-    name: Argonne National Laboratory
-  - key: eth
-    name: ETH Zurich
-  - key: max_planck
-    name: Max Planck Institute for Sustainable Materials
-  - key: penn_state
-    name: Pennsylvania State University
+summer_school_roles:
+  - key: organizer
+    name: Core Organizers
+  - key: hack
+    name: Hackathon Organizers
 
 # make pages for the _projects folder
 collections:
