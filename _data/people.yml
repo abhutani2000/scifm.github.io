@@ -9,14 +9,14 @@ venkvis:
   org: University of Michigan
 
 karthic:
-  role: assoc_director
+  role: faculty
   summer_school_role: organizer
   display_name: Karthik Duraisamy
   image: assets/img/karthik.jpg
   bio: Director of MICDE
   website: https://aero.engin.umich.edu/people/duraisamy-karthik/
   org: University of Michigan
-  
+
 ## Core Team
 abhutani:
   role: team
@@ -72,7 +72,7 @@ chenyanh:
   bio: Ph.D. Student, Mechanical Engineering
   org: University of Michigan
 
-chenyanh:
+vansh:
   display_name: "Vansh Sharma"
   role: team
   email: "vanshs [at] umich [dot] com"
